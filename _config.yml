@@ -30,7 +30,7 @@ html:
   use_repository_button: true
   use_edit_page_button: false
   home_page_in_navbar: true
-  baseurl: ""
+  baseurl: "https://prasoon1207.github.io/book-code-blog"
   favicon: ""
   extra_footer: |
     <p>Built with Jupyter Book</p>
