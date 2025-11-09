@@ -1,6 +1,6 @@
 # Book configuration
 title: Book Code Blog
-author: Your Name
+author: Prasoon Bajpai
 copyright: "2025"
 logo: ""
 
@@ -20,7 +20,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/your-username/book-code-blog
+  url: https://github.com/Prasoon1207/book-code-blog
   path_to_book: ""
   branch: main
 
@@ -61,7 +61,7 @@ sphinx:
   config:
     html_theme: sphinx_book_theme
     html_theme_options:
-      repository_url: https://github.com/your-username/book-code-blog
+      repository_url: https://github.com/Prasoon1207/book-code-blog
       use_repository_button: true
       use_issues_button: true
       path_to_docs: ""
